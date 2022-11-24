@@ -1,7 +1,7 @@
 
-<h1> Hello world! </h1>
+<h1>💻Hello World🌎</h1>
 
 - 👋 I’m @ninad_bhoir
-- 👀 I’m a continuous learner
-- 🌱 I’m working on Reactjs and nodejs
-- 📫 You can contact me on ninadbhoir010@gmail.com
+- 👀 I’m a courageous and long-life learner💻
+- 🌱 Actively working on Reactjs and nodejs react⚛️
+- 📫 You can contact me on ninadbhoir010@gmail.com📧
