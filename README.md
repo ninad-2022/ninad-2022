@@ -1,12 +1,12 @@
 
-<h1>💻Hello Techies🌎</h1>
+<h1 align="center">💻Hello Techies👋I'm Ninad Bhoir</h1>
+<h3 align="center">A courageous FullStack (MERN) developer</h3>
 
-- 👋 I’m @ninad_bhoir
-- 👀 I’m a courageous and long-life learner💻
 - 🌱 Actively working on JavaScript, Reactjs⚛️ and nodejs
-- ➕Solving real-time development problems using JS and TS, Mail to contribute
-  
-<h3 align="left">📫 You can contact me:</h3>
+- 💬 Ask me about **MERN**
+- ➕ Solve real-time development problems with me
+- 📫 Mail me on **ninadbhoir010@gmail.com**
+<h3 align="left">You can contact me:</h3>
 <p align="left" style="display: flex; justify-content: start; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/ninad-bhoir-981a74169/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ninad-bhoir-981a74169" height="30" width="40" />
