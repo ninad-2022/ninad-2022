@@ -1,6 +1,6 @@
 
 <h1 align="center">💻Hello Techies👋I'm Ninad Bhoir</h1>
-<h3 align="center">A courageous FullStack (MERN) developer</h3>
+<h3 align="center">A courageous FullStack (MERN + SQL) developer</h3>
 
 - 🌱 Actively working on JavaScript, Reactjs⚛️ and nodejs
 - 💬 Ask me about **MERN**
