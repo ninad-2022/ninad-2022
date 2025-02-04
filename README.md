@@ -1,5 +1,5 @@
 
-<h1 align="center">💻Hello Techies👋I'm Ninad</h1>
+<h1 align="center">💻Hello Tech World👋I'm Ninad</h1>
 <h3 align="center">A courageous FullStack (MERN + SQL) developer</h3>
 
 - 🌱 Actively working on JavaScript, Reactjs⚛️ and nodejs
